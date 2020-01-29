@@ -1,0 +1,6 @@
+.cardsContainer {
+  background: #202329;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
